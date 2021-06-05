@@ -1,3 +1,5 @@
-.ipynb_checkpoints/Gemstone Classification-checkpoint.ipynb
+ipynb_checkpoints
 dataset_final
 chromedriver.exe
+.gitignore
+.ipynb_checkpoints/Gemstone Classification-checkpoint.ipynb
